@@ -1,0 +1,109 @@
+/home/x/anaconda3/envs/xpycharm/bin/python /home/x/Desktop/ribba/ModelTraining3.py
+ABC.Sampler INFO: Parallelize sampling on 16 processes.
+ABC.History INFO: Start <ABCSMC id=68, start_time=2022-04-05 01:12:22>
+ABC INFO: Calibration sample t = -1.
+ABC INFO: t: 0, eps: 6.94614999e+03.
+ABC INFO: Accepted: 1000 / 2218 = 4.5086e-01, ESS: 1.0000e+03.
+ABC INFO: t: 1, eps: 5.38119253e+03.
+ABC INFO: Accepted: 1000 / 2676 = 3.7369e-01, ESS: 1.6219e+02.
+ABC INFO: t: 2, eps: 4.85593760e+03.
+ABC INFO: Accepted: 1000 / 3880 = 2.5773e-01, ESS: 7.0419e+01.
+ABC INFO: t: 3, eps: 4.64414206e+03.
+ABC INFO: Accepted: 1000 / 5700 = 1.7544e-01, ESS: 6.6608e+01.
+ABC INFO: t: 4, eps: 4.41832285e+03.
+ABC INFO: Accepted: 1000 / 4354 = 2.2967e-01, ESS: 1.9535e+02.
+ABC INFO: t: 5, eps: 4.13464490e+03.
+ABC INFO: Accepted: 1000 / 4237 = 2.3602e-01, ESS: 8.1179e+00.
+ABC INFO: t: 6, eps: 3.87848555e+03.
+ABC INFO: Accepted: 1000 / 6230 = 1.6051e-01, ESS: 1.9016e+02.
+ABC INFO: t: 7, eps: 3.59197226e+03.
+ABC INFO: Accepted: 1000 / 4782 = 2.0912e-01, ESS: 7.1501e+00.
+ABC INFO: t: 8, eps: 3.43511232e+03.
+ABC INFO: Accepted: 1000 / 10445 = 9.5740e-02, ESS: 4.8340e+01.
+ABC INFO: t: 9, eps: 3.22288421e+03.
+ABC INFO: Accepted: 1000 / 5658 = 1.7674e-01, ESS: 1.3548e+02.
+ABC INFO: t: 10, eps: 2.83428804e+03.
+ABC INFO: Accepted: 1000 / 5001 = 1.9996e-01, ESS: 2.7219e+02.
+ABC INFO: t: 11, eps: 2.39806044e+03.
+ABC INFO: Accepted: 1000 / 5277 = 1.8950e-01, ESS: 1.2860e+02.
+ABC INFO: t: 12, eps: 2.16717646e+03.
+ABC INFO: Accepted: 1000 / 5545 = 1.8034e-01, ESS: 2.1968e+02.
+ABC INFO: t: 13, eps: 1.93538395e+03.
+ABC INFO: Accepted: 1000 / 6367 = 1.5706e-01, ESS: 2.0381e+02.
+ABC INFO: t: 14, eps: 1.70028723e+03.
+ABC INFO: Accepted: 1000 / 8559 = 1.1684e-01, ESS: 3.6999e+01.
+ABC INFO: t: 15, eps: 1.57483307e+03.
+ABC INFO: Accepted: 1000 / 12861 = 7.7754e-02, ESS: 5.9568e+01.
+ABC INFO: t: 16, eps: 1.48537041e+03.
+ABC INFO: Accepted: 1000 / 10047 = 9.9532e-02, ESS: 2.5327e+02.
+ABC INFO: t: 17, eps: 1.32210962e+03.
+ABC INFO: Accepted: 1000 / 12400 = 8.0645e-02, ESS: 5.5115e+00.
+ABC INFO: t: 18, eps: 1.29829354e+03.
+ABC INFO: Accepted: 1000 / 34723 = 2.8799e-02, ESS: 4.8327e+01.
+ABC INFO: t: 19, eps: 1.13901514e+03.
+ABC INFO: Accepted: 1000 / 21029 = 4.7553e-02, ESS: 1.2211e+02.
+ABC INFO: t: 20, eps: 1.03726162e+03.
+ABC INFO: Accepted: 1000 / 21026 = 4.7560e-02, ESS: 2.4811e+02.
+ABC INFO: t: 21, eps: 9.24787662e+02.
+ABC INFO: Accepted: 1000 / 19172 = 5.2159e-02, ESS: 4.2953e+01.
+ABC INFO: t: 22, eps: 8.45519309e+02.
+ABC INFO: Accepted: 1000 / 19354 = 5.1669e-02, ESS: 1.2285e+02.
+ABC INFO: t: 23, eps: 7.50272872e+02.
+ABC INFO: Accepted: 1000 / 16805 = 5.9506e-02, ESS: 7.9127e+01.
+ABC INFO: t: 24, eps: 6.79600960e+02.
+ABC INFO: Accepted: 1000 / 13271 = 7.5352e-02, ESS: 2.8768e+02.
+ABC INFO: t: 25, eps: 6.12690355e+02.
+ABC INFO: Accepted: 1000 / 11696 = 8.5499e-02, ESS: 1.4137e+00.
+ABC INFO: t: 26, eps: 6.06809510e+02.
+ABC INFO: Accepted: 1000 / 12213 = 8.1880e-02, ESS: 1.7717e+01.
+ABC INFO: t: 27, eps: 5.36428065e+02.
+ABC INFO: Accepted: 1000 / 13826 = 7.2327e-02, ESS: 6.2020e+01.
+ABC INFO: t: 28, eps: 4.89996666e+02.
+ABC INFO: Accepted: 1000 / 11834 = 8.4502e-02, ESS: 5.2221e+01.
+ABC INFO: t: 29, eps: 4.23441896e+02.
+ABC INFO: Accepted: 1000 / 15303 = 6.5347e-02, ESS: 2.5308e+02.
+ABC INFO: t: 30, eps: 3.74816054e+02.
+ABC INFO: Accepted: 1000 / 10666 = 9.3756e-02, ESS: 1.8922e+02.
+ABC INFO: t: 31, eps: 3.35012781e+02.
+ABC INFO: Accepted: 1000 / 11415 = 8.7604e-02, ESS: 5.4692e+01.
+ABC INFO: t: 32, eps: 3.07379997e+02.
+ABC INFO: Accepted: 1000 / 15394 = 6.4960e-02, ESS: 2.5871e+02.
+ABC INFO: t: 33, eps: 2.72071492e+02.
+ABC INFO: Accepted: 1000 / 12373 = 8.0821e-02, ESS: 6.8717e+00.
+ABC INFO: t: 34, eps: 2.61590382e+02.
+ABC INFO: Accepted: 1000 / 16256 = 6.1516e-02, ESS: 5.3096e+01.
+ABC INFO: t: 35, eps: 2.39610980e+02.
+ABC INFO: Accepted: 1000 / 15819 = 6.3215e-02, ESS: 4.5369e+01.
+ABC INFO: t: 36, eps: 2.13832672e+02.
+ABC INFO: Accepted: 1000 / 25369 = 3.9418e-02, ESS: 2.6109e+02.
+ABC INFO: t: 37, eps: 1.93689329e+02.
+ABC INFO: Accepted: 1000 / 14576 = 6.8606e-02, ESS: 8.1075e+01.
+ABC INFO: t: 38, eps: 1.76610574e+02.
+ABC INFO: Accepted: 1000 / 19433 = 5.1459e-02, ESS: 2.6804e+02.
+ABC INFO: t: 39, eps: 1.59614240e+02.
+ABC INFO: Accepted: 1000 / 17592 = 5.6844e-02, ESS: 6.6923e+01.
+ABC INFO: t: 40, eps: 1.45655991e+02.
+ABC INFO: Accepted: 1000 / 18512 = 5.4019e-02, ESS: 2.9170e+02.
+ABC INFO: t: 41, eps: 1.32729184e+02.
+ABC INFO: Accepted: 1000 / 16574 = 6.0335e-02, ESS: 3.0261e+01.
+ABC INFO: t: 42, eps: 1.17477150e+02.
+ABC INFO: Accepted: 1000 / 32535 = 3.0736e-02, ESS: 9.9674e+01.
+ABC INFO: t: 43, eps: 1.07613932e+02.
+ABC INFO: Accepted: 1000 / 22967 = 4.3541e-02, ESS: 2.2991e+02.
+ABC INFO: t: 44, eps: 9.84560920e+01.
+ABC.History INFO: Done <ABCSMC id=68, duration=0:11:38.381324, end_time=2022-04-05 01:24:01>
+Traceback (most recent call last):
+  File "/home/x/Desktop/ribba/ModelTraining3.py", line 91, in <module>
+    history = abc.run(minimum_epsilon=1.0, max_nr_populations=5000)
+  File "/home/x/anaconda3/envs/xpycharm/lib/python3.9/site-packages/pyabc/inference/smc.py", line 62, in wrapped_run
+    ret = run(self, *args, **kwargs)
+  File "/home/x/anaconda3/envs/xpycharm/lib/python3.9/site-packages/pyabc/inference/smc.py", line 698, in run
+    ret = self.run_generation(t=t)
+  File "/home/x/anaconda3/envs/xpycharm/lib/python3.9/site-packages/pyabc/inference/smc.py", line 829, in run_generation
+    sample.normalize_weights()
+  File "/home/x/anaconda3/envs/xpycharm/lib/python3.9/site-packages/pyabc/population.py", line 417, in normalize_weights
+    raise AssertionError("The total population weight is zero")
+AssertionError: The total population weight is zero
+
+Process finished with exit code 1
+
