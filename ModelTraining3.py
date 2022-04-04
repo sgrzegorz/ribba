@@ -9,16 +9,15 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 # %matplotlib inline
-from asymilacja.model.datasets import ribba_dataset
 
 # pyabc.settings.set_figure_params('pyabc')  # for beautified plots
-from asymilacja.model.CancerModelClass import CancerModel
+from CancerModelClass import CancerModel
 
 import numpy as np
 import pandas as pd
 
 
-patient = pd.read_csv('data/ribba/sztucznyDemo.csv')
+patient = pd.read_csv('sztucznyDemo.csv')
 
 observation = np.array([ patient["P"].tolist(),  patient["Q"].tolist(), patient["Q_p"].tolist(), patient["C"].tolist()],dtype=float)
 count = len(patient["P"].tolist())
@@ -89,7 +88,7 @@ db_path = ("sqlite:///" +  os.path.join(tempfile.gettempdir(), "test.db"))
 
 abc.new(db_path, {"data": observation})
 
-history = abc.run(minimum_epsilon=100, max_nr_populations=5000)
+history = abc.run(minimum_epsilon=1.0, max_nr_populations=5000)
 
 history is abc.history
 
